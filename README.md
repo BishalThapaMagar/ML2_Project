@@ -1,1 +1,1 @@
-# ML2_Project
+# ML2_Project for wheat classification
